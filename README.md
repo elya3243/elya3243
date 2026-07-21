@@ -1,4 +1,6 @@
-Hi, I'm Elyas 👋
+# Hi, I'm Elyas 👋
+
+Backend Developer passionate about building scalable web applications using Python and Django.
 
 Backend Developer | Django | DRF | PostgreSQL | Redis | Celery
 
