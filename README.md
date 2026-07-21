@@ -16,7 +16,7 @@ I enjoy building scalable backend systems with clean architecture.
 - Celery
 - Docker
 
-  ## 🌱 Currently Learning
+## 🌱 Currently Learning
 
 - Docker
 - Software Architecture
