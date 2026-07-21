@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Elyas 👋
 
-<!--
-**elya3243/elya3243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | Django | DRF | PostgreSQL | Redis | Celery
 
-Here are some ideas to get you started:
+I enjoy building scalable backend systems with clean architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Django
+🔹 Django REST Framework
+🔹 PostgreSQL
+🔹 Redis
+🔹 Celery
+🔹 Docker
+
+📧 Email: elyasderakhshanfar@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/elyas-derakhshanfar/
+
+💻 GitHub: https://github.com/elya3243
