@@ -6,13 +6,24 @@ Backend Developer | Django | DRF | PostgreSQL | Redis | Celery
 
 I enjoy building scalable backend systems with clean architecture.
 
-🔹 Django
-🔹 Django REST Framework
-🔹 PostgreSQL
-🔹 Redis
-🔹 Celery
-🔹 Docker
+## 🚀 Tech Stack
 
+- Python
+- Django
+- Django REST Framework
+- PostgreSQL
+- Redis
+- Celery
+- Docker
+
+  ## 🌱 Currently Learning
+
+- Docker
+- Software Architecture
+- System Design
+
+## 📫 Contact
+  
 📧 Email: elyasderakhshanfar@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/elyas-derakhshanfar/
